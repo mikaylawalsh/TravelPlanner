@@ -1,0 +1,7 @@
+origin,destination,type,price,duration
+Westerly,Darien,bus,10,30
+Darien,Portland,plane,5,40
+Westerly,Portland,bus,10,300
+Portland,Darien,plane,600,5000
+Westerly,Portland,bus,1,600
+Darien,Westerly,train,10,10

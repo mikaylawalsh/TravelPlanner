@@ -1,0 +1,6 @@
+origin,destination,type,price,duration
+Lisbon,Tokyo,plane,100,200
+London,Lisbon,plane,28,67
+Lisbon,London,bus,200,45
+London,Lisbon,plane,400,20
+Tokyo,London,bus,99,12
